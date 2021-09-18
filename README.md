@@ -7,9 +7,11 @@
 
 **Библиотеки:** pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
 
-## Проект по SQL
+## [Проект по SQL](https://github.com/marinaraisheva/Yandex-Data-Analysis/blob/beca1f8269b681b0674aaf909ff0e35375cbeae3/sql_project)
 **Задача:** Анализ базы данных крупного сервиса для чтения книг по подписке.
 
-## Телеком — Определение неэффективных операторов
+## [Телеком — Определение неэффективных операторов](https://github.com/marinaraisheva/Yandex-Data-Analysis/blob/beca1f8269b681b0674aaf909ff0e35375cbeae3/telecom)
 **Задача:** Поиск самых неэффективных операторов провайдера виртуальный телефонии/
 **Библиотеки:** pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, plotly, sklearn
+
+![Телеком — Определение неэффективных операторов]
